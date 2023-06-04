@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 44343,
+      "nombre": "leonel",
+      "correo": "correo@gmail.com",
+      "password": "12345"
+    },
+    [],
+    {
+      "id": "a241be56-1704-47ab-a5f3-e4179b931ad0",
+      "nombre": "pepe",
+      "correo": "pepe@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "4d6ffb9c-beda-4a8f-94fc-e615936708df",
+      "nombre": "viri",
+      "correo": "viri@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "f0f2b831-5112-49e6-90f3-e89a915bbfa7",
+      "nombre": "claudia",
+      "correo": "claudia@gmail.com",
+      "password": "1223434"
+    },
+    {
+      "id": "b2811057-a470-434c-8a90-f59b97311ea3",
+      "nombre": "priscila",
+      "correo": "priscila@gmail.com",
+      "password": "1234566"
+    },
+    {
+      "id": "4e4f32ed-4e83-4790-9bd8-5ae4dc2bca0c",
+      "nombre": "canelo",
+      "correo": "canelo@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "02922694-8d43-423a-9a0c-c64437be1448",
+      "nombre": "marianel",
+      "correo": "marianel@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "c8a571e5-27b2-46db-b259-2fa162037f94",
+      "nombre": "luisito",
+      "correo": "luisito@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "61834c00-0c34-42bc-b1d8-6a6b938a7357",
+      "nombre": "kikin",
+      "correo": "kikin@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
